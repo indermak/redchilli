@@ -3960,7 +3960,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area .single-footer-widget h4 {
-	color: #fff
+    color: #fff;
+}
+
+.footer-area .contact-footer {
+    text-align: center
+
 }
 
 @media (max-width: 768px) {
